@@ -16,10 +16,7 @@ superuser: false
 # Role/position
 role: Postdoc
 
-# Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+# Organizations/Affiliation
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

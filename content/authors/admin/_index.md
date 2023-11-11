@@ -13,21 +13,9 @@ superuser: true
 role:  Assistant Professor Department of Genetics
 
 # Organizations/Affiliations
-organizations:
-  - name: ''
-    url: ''
-
 # Short bio (displayed in user profile at end of posts)
-bio: 
 
-interests:
-  education:
-  courses:
-   - degree
-    phd: University of California Santa Cruz
-      year: 2011
-    ba: Colgate University
-      year: 20004
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
