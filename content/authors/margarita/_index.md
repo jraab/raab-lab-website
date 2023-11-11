@@ -19,7 +19,7 @@ role: Postdoc
 # Organizations/Affiliation
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+
 
 education:
   degree:

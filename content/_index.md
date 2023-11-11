@@ -8,15 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Raab Lab Research Group
-        Research Group
+        Raab Lab Research Grou 
       image:
         filename:raab-lab-header.jpg 
       text: |
         <br>
-        
-        
-  
+         The **Raab Lab** at UNC Chapel Hill 
+         </br> 
      columns: '1'
  
 ---
