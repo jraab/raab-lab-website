@@ -9,7 +9,7 @@ sections:
     content:
       title: Raab Lab Research Group
       image:
-        filename: raab-lab-header.jopg
+        filename: raab-lab-header.jpg
       text: |
         <br>
         
