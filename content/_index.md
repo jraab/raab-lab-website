@@ -7,14 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
-        Raab Lab Research Grou 
+      title: Raab Lab Research Group
       image:
-      filename: raab-lab-header.jpg 
+        filename: raab-lab-header.jopg
       text: |
         <br>
-         The **Raab Lab** at UNC Chapel Hill 
+        
+        The **Raab-Lab** at UNC Chapel Hill
         </br> 
-     columns: '1'
- 
 ---
+  
