@@ -11,9 +11,11 @@ sections:
         The **Raab Lab** at UNC Chapel Hill
       image: 
         filename: raablab.jpg    
+
   - block: portfolio
     id: projects
-    title: 
+    content: 
+      title: 
       filters: 
         folders: 
           - projects
@@ -22,7 +24,8 @@ sections:
     design: 
       columns: 1
       view: showcase
-      flip_alt_rows: false 
+      flip_alt_rows: false
+
 ---
 
  
