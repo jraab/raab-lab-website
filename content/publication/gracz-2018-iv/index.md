@@ -15,7 +15,7 @@ authors:
 - R Lee Reinhardt
 - Scott T Magness
 date: '2018-11-01'
-publishDate: '2023-11-12T17:25:47.371330Z'
+publishDate: '2023-11-12T17:27:39.782512Z'
 publication_types:
 - article-journal
 publication: '*Gastroenterology*'

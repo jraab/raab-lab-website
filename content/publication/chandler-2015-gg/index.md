@@ -9,7 +9,7 @@ authors:
 - Terry Magnuson
 - Jonathan C Schisler
 date: '2015-09-01'
-publishDate: '2023-11-12T17:25:47.439206Z'
+publishDate: '2023-11-12T17:27:39.862465Z'
 publication_types:
 - article-journal
 publication: '*Genom Data*'
