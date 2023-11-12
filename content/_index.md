@@ -10,17 +10,17 @@ sections:
       title:  | 
         The **Raab Lab** at UNC Chapel Hill
       image: 
-        filename: raab-lab-header.jpg    
+        filename: raablab.jpg    
       design: 
         css_class: fullscreen
 
   - block: markdown 
-    id: project_1 
     content: 
       title: 
       subtitle: 
       text: Testing out the possibility of using this as a landing page 
-      image: raablab.jpg
+      image: 
+        filename: raablab.jpg
       design:  
         view: showcase
         columns: 1
@@ -29,7 +29,8 @@ sections:
     id: project_2  
     content: 
       text: This is made up project 2 
-      image: HE_CKO_liver.jpeg
+      image: 
+        filename: HE_CKO_liver.jpeg
       design: 
         view: showcase
         columns: 1
