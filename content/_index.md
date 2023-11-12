@@ -41,6 +41,7 @@ sections:
       subtitle: ''
       text: This is project 3
     design:
+      view: showcase
       columns: '1'
       background:
         image: 
