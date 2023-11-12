@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: :
-      image: raab-lab-header.jpg
-      
+      image: 
+        filename: raab-lab-header.jpg  
   - block: markdown      
     columns: 1
     title: 
