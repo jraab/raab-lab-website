@@ -5,32 +5,40 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content: 
-      title: | 
+      title:  
       image: 
-        filename: raab-lab-header.jpt   
+        filename: raab-lab-header.jpg   
 
   - block: markdown      
-    columns: 1
-    title: 
-    text: The **Raab Lab** at UNC Chapel Hill 
+    content: 
+      title: 
+      subtitle: 
+      text: The **Raab Lab** at UNC Chapel Hill 
+      design: 
+        columns: 1
+
 
   - block: markdown 
     id: project_1 
-    text: Testing out the possibility of using this as a landing page 
-    image: raablab.jpg
-    design:  
-      view: showcase
-      columns: 1
+    content: 
+      title: 
+      subtitle: 
+      text: Testing out the possibility of using this as a landing page 
+      image: raablab.jpg
+      design:  
+        view: showcase
+        columns: 1
 
   - block: markdown 
     id: project_2  
-    text: This is made up project 2 
-    image: HE_CKO_liver.jpeg
-    design: 
-      view: showcase
-      columns: 1
+    content: 
+      text: This is made up project 2 
+      image: HE_CKO_liver.jpeg
+      design: 
+        view: showcase
+        columns: 1
 
 ---
 
