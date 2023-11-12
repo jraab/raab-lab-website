@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: Raab Lab Research Group
-        banner:
+      banner:
         image: raab-lab-header.jpg
       text: |
         <br>
