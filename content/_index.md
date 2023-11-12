@@ -13,6 +13,7 @@ sections:
       
   - block: markdown      
     columns: 1
+    text: The **Raab Lab** at UNC Chapel Hill 
 ---
 
- The **Raab Lab** at UNC Chapel Hill 
+ 
