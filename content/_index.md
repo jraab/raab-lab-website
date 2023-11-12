@@ -11,6 +11,8 @@ sections:
       banner:
         image: raab-lab-header.jpg
       
-      
+  - block: markdown      
+    columns: 1
 ---
+
  The **Raab Lab** at UNC Chapel Hill 
