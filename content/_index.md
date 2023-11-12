@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: markdown 
     content: 
+      text: The **Raab Lab** at UNC Chapel Hill
       title:  
       image: 
         filename: raab-lab-header.jpg   
@@ -14,15 +15,6 @@ sections:
         size: cover
       design: 
         css_class: fullscreen
-
-  - block: markdown      
-    content: 
-      title: 
-      subtitle: 
-      text: The **Raab Lab** at UNC Chapel Hill 
-      design: 
-        columns: 1
-
 
   - block: markdown 
     id: project_1 
