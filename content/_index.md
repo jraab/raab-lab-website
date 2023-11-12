@@ -14,15 +14,15 @@ sections:
 
   - block: portfolio
     id: projects
+    title: Projects
+    text: 
     content: 
       title: 
       filters: 
         folders: 
           - projects
-        kinds: 
-          - page
     design: 
-      columns: 1
+      columns: '1'
       view: showcase
       flip_alt_rows: false
 
