@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content: 
       title:  
       image: 
