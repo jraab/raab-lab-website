@@ -5,11 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: :
-      image: 
-        filename: raab-lab-header.jpg  
+  - block: markedown  
+    image: raab-lab-header.jpg  
   - block: markdown      
     columns: 1
     title: 
