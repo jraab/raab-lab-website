@@ -5,14 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown 
+  - block: hero
     content: 
-      text: The **Raab Lab** at UNC Chapel Hill
-      title:  
+      title:  | 
+        The **Raab Lab** at UNC Chapel Hill
       image: 
-        filename: raab-lab-header.jpg   
-        position: center
-        size: cover
+        filename: raab-lab-header.jpg    
       design: 
         css_class: fullscreen
 
