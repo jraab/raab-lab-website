@@ -7,13 +7,10 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Raab Lab Research Group
+      title: 
       banner:
         image: raab-lab-header.jpg
-      text: |
-        <br>
-        
-        The **Raab-Lab** at UNC Chapel Hill
-        </br> 
+      
+      
 ---
-  
+ The **Raab Lab** at UNC Chapel Hill 
