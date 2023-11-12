@@ -5,11 +5,15 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown 
     content: 
       title:  
       image: 
         filename: raab-lab-header.jpg   
+        position: center
+        size: cover
+      design: 
+        css_class: fullscreen
 
   - block: markdown      
     content: 
