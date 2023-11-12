@@ -8,8 +8,8 @@ sections:
   - block: hero
     content:
       title: Raab Lab Research Group
-      image:
-        filename: raab-lab-header.jpg
+        banner:
+        image: raab-lab-header.jpg
       text: |
         <br>
         

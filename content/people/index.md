@@ -21,6 +21,7 @@ sections:
       sort_ascending: true
     design:
       show_interests: false
-      show_role: false
+      show_role: true 
       show_social: true
+      show_groups: false
 ---
