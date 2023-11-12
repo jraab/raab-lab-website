@@ -10,7 +10,7 @@ last_name: Raab
 superuser: true
 
 # Role/position
-role:  Assistant Professor Department of Genetics
+role:  Assistant Professor <br> Department of Genetics </br>
 
 # Organizations/Affiliations
 # Short bio (displayed in user profile at end of posts)
