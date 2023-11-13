@@ -9,13 +9,6 @@ sections:
     content: 
       title:  | 
         The **Raab Lab** at UNC Chapel Hill
-      image: 
-        filename: raablab.jpg    
-
-  - block: hero
-    content:  
-      title: 
-      text: Learn mor about our Research
       banner: 
         image: 'cool_image.jpg'
   - block: portfolio
