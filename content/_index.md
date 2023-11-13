@@ -21,6 +21,7 @@ sections:
       filters: 
         folders: 
           - projects
+      sort_by: Params.weight
     design: 
       columns: '1'
       view: showcase
