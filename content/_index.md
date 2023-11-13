@@ -12,6 +12,12 @@ sections:
       image: 
         filename: raablab.jpg    
 
+  - block: hero
+    content:  
+      title: 
+      text: Learn mor about our Research
+      banner: 
+        image: 'cool_image.jpg'
   - block: portfolio
     id: projects
     title: Projects
@@ -21,7 +27,7 @@ sections:
       filters: 
         folders: 
           - projects
-      sort_by: Params.weight
+      sort_by: Params.weight # need to put them in reverse for some odd reason
     design: 
       columns: '1'
       view: showcase
