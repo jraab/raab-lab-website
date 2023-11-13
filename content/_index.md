@@ -5,7 +5,8 @@ date: 2022-10-24
 type: landing
 banner: 
   image: cool_image.jpg
-  
+  caption: ''
+
 sections:
   - block: hero
     content: 
@@ -14,7 +15,7 @@ sections:
       banner: 
         image: 'cool_image.jpg'
   - block: portfolio
-    id: projects
+    id: Research
     title: Projects
     text: 
     content: 
