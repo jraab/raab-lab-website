@@ -3,7 +3,9 @@
 title:
 date: 2022-10-24
 type: landing
-
+banner: 
+  image: cool_image.jpg
+  
 sections:
   - block: hero
     content: 
