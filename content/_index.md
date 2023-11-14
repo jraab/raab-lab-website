@@ -12,9 +12,8 @@ sections:
     content: 
       title:  | 
         The **Raab Lab** at UNC Chapel Hill
-      banner: 
-        image: 'cool_image.jpg'
-  -block: markdown
+      
+  - block: markdown
     content: 
       title: 
       subtitle: 
