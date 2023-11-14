@@ -14,12 +14,12 @@ sections:
     content: 
       title: 
       subtitle: 
-      text: 
+      text: 'Test text'
       design: 
         columns: 1
         background: 
           image: 
-            filename: coders.jpg
+            filename: raab-lab-header.jpg
             filters:
               brightness: 1
             parallax: false
