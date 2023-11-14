@@ -3,9 +3,6 @@
 title:
 date: 2022-10-24
 type: landing
-banner: 
-  image: cool_image.jpg
-  caption: ''
 
 sections:
   - block: hero
@@ -22,7 +19,7 @@ sections:
         columns: 1
         background: 
           image: 
-            filename: cool_image.jpg
+            filename: raab-lab-header.jpg
             filters:
               brightness: 1
             parallax: false
