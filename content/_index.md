@@ -8,7 +8,8 @@ sections:
   - block: hero
     content: 
       title:  | 
-        The **Raab Lab** at UNC Chapel Hill
+        The **Raab Lab** 
+      text: We are in the Department of Genetics at UNC Chapel Hill. We study how chromatin mediated gene regulation is controlled and how disruption of chromatin contributes to cancer and other diseases
 
   - block: markdown
     content:
