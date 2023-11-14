@@ -7,5 +7,5 @@ public/
 assets/jsconfig.json
 
 #Mac 
-.DS_Store
+*.DS_Store
 content/authors/.DS_Store
