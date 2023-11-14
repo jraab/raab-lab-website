@@ -19,7 +19,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: 'raab-lab-header.jpg' 
+          filename: 'cool_image.jpg' 
           filters:
             brightness: 1
           parallax: false
