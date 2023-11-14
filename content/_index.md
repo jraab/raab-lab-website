@@ -20,7 +20,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: 'cool_image.jpg' 
+          filename: 'cell_puncta.jpg' 
           filters:
             brightness: 1
           parallax: false
@@ -36,7 +36,7 @@ sections:
       filters: 
         folders: 
           - projects
-      sort_by: Params.weight # need to put them in reverse for some odd reason
+      sort_by: Params.weight 
     design: 
       columns: '1'
       view: showcase
