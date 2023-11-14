@@ -14,6 +14,26 @@ sections:
         The **Raab Lab** at UNC Chapel Hill
       banner: 
         image: 'cool_image.jpg'
+  -block: markdown
+    content: 
+      title: 
+      subtitle: 
+      text: 
+      design: 
+        columns: 1
+        background: 
+          image: 
+            filename: cool_image.jpg
+            filters:
+              brightness: 1
+            parallax: false
+            position: center
+            size: cover
+            text_color_light: true
+        spacing: 
+          padding: ['20px', '0', '20px', '0']
+        css_class: fullscreen
+          
   - block: portfolio
     id: Research
     title: Projects
