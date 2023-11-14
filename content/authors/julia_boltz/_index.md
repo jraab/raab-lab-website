@@ -44,5 +44,3 @@ user_groups:
   - Undergrads 
    
 ---
-
-Margarita Test

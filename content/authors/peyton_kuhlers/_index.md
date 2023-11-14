@@ -49,4 +49,3 @@ user_groups:
    
 ---
 
-Margarita Test

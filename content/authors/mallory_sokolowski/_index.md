@@ -48,5 +48,3 @@ user_groups:
   - Grad Students
    
 ---
-
-Margarita Test
