@@ -1,6 +1,6 @@
 ---
-title: Epigenome focused CRISPR screens
-summary: Our lab uses high throghgput CRISPR screens to uncover new therapeutic avenues in liver cancer and other diseases. We focused on genes involved in chromatin mediated gene regulation, which are commonly mutated in a wide range of cancers and other diseases. 
+title: Chromatin disruption in liver cancer 
+summary: Chromatin regualators are among the most frequent mutations in hepatocellular carcinoma and cholangiocarcinoma. We are interested in how disruption of normal chromatin regulation gives rise to these tumors. We are also looking for new therapeutic strategies targeting the epignome. We use high throghgput CRISPR screens to uncover new therapeutic avenues.
 tags: 
 date: 
 weight: 2
