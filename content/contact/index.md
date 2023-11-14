@@ -24,7 +24,7 @@ sections:
 
   - block: contact
     content:
-      title: We're always looking for new people to work with us.  
+      title:   
       text: |
         
       email: jesse_raab@med.unc.edu
