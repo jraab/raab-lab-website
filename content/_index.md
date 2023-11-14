@@ -18,8 +18,8 @@ sections:
       design: 
         columns: 1
         background: 
-          image: 
-            filename: 'raab-lab-header.jpg'
+          image: 'raab-lab-header.jpg'
+            
             filters:
               brightness: 1
             parallax: false
