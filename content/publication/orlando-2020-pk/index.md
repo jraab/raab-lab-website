@@ -24,8 +24,8 @@ authors:
 - David G Huntsman
 - Jeffrey M Trent
 - Joel S Parker
-- Jesse R Raab
-- Bernard E Weissman
+- 'Jesse R Raab\u2020'
+- 'Bernard E Weissman\u2020'
 date: '2020-12-01'
 publishDate: '2023-11-12T17:27:39.716436Z'
 publication_types:
