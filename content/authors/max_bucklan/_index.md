@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Emma Bucklan
+title: Max Bucklan
 
 # Full name (for SEO)
-first_name: Emma
+first_name: Max
 last_name: Bucklan
 
 # Username (this should match the folder name)
 authors:
-  - emma_bucklan
+  - max_bucklan
 
 # Is this the primary user of the site?
 superuser: false
