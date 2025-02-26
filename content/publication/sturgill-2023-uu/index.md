@@ -4,8 +4,8 @@ authors:
 - Ian R Sturgill
 - Jesse R Raab 
 - Katherine A Hoadley
-date: '2024-12'
-publishDate: '2024-12'
+date: '2024-12-01'
+publishDate: '2024-12-01'
 publication_types:
 - manuscript
 publication: 'NAR Cancer'
