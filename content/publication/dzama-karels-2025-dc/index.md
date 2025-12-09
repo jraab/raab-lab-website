@@ -1,14 +1,15 @@
 ---
-title: Menin-MLL complex cooperates with NF-Y to promote HCC survival
+title: Menin-MLL1 complex cooperates with NF-Y to promote hepatocellular carcinoma
+  survival
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- 'Authors: Margarita Dzama-Karels'
-- Peyton Kuhlers
+- Margarita Dzama-Karels
 - Mallory Sokolowski
+- Peyton Kuhlers
 - Jacqueline A Brinkman
 - IV, John P Morris
 - Jesse R Raab
@@ -17,21 +18,21 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-04-01'
+date: '2025-12-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2025-04-09T11:04:58.083444Z'
+publishDate: '2025-12-09T13:26:12.710025Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- manuscript
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Cell Rep.*'
 publication_short: ''
 
-doi: 10.1101/2025.04.05.647381
+doi: 10.1016/j.celrep.2025.116619
 
 abstract: ''
 
