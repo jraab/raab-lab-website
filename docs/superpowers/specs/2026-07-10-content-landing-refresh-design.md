@@ -87,6 +87,23 @@ The engine for the project narratives, news blurbs, and paper picks:
    auto-generated ships without his pass.
 4. **`/deslop`** conforms the drafts to Jesse's normal voice (news blurbs too).
 
+## Sequencing — two phases
+
+Split so the visual structure lands first and the slower content work can move
+to a separate session if needed.
+
+- **Phase 1 — Structure (this session).** Hero band, news system + navbar, home
+  highlights strip, project pages restructured with placeholder narrative +
+  empty "Key Publications" scaffolding, Contact lab-photo placeholder, all
+  styling. Seed news posts may use short placeholder text. Goal: the site's new
+  shape is fully renderable and previewable end-to-end, independent of the
+  real research copy. Can be reviewed and deployed on its own.
+- **Phase 2 — Content fill (this or a later session).** `/focus` over the pubs
+  → draft project narratives → Jesse edits / pastes grant text → `/deslop`;
+  curate the 3–6 Key Publications per arm; finalize real news blurbs; Jesse adds
+  the award post. Phase 2 only edits content within the Phase 1 scaffolding, so
+  it needs no structural rework and carries cleanly across sessions.
+
 ## Files touched
 
 | File | Change |
