@@ -2,8 +2,17 @@
 title: "Contact"
 ---
 
+<!-- LAB PHOTO: when Jesse provides the photo, drop it in quarto/images/lab-photo.jpg
+     and uncomment the line below.
+![The Raab Lab](images/lab-photo.jpg){.img-fluid style="border-radius:.6rem;margin-bottom:1.5rem;"}
+-->
+
 We are located in the Department of Genetics at the University of North Carolina
 at Chapel Hill.
+
+We are always glad to hear from people who want to join us. Prospective graduate
+students, postdocs, and undergraduate researchers are all encouraged to get in
+touch — tell us a bit about what you're excited about and what you'd like to work on.
 
 **Email:** [jraab@med.unc.edu](mailto:jraab@med.unc.edu)
 
@@ -12,6 +21,3 @@ Department of Genetics\
 120 Mason Farm Road\
 Chapel Hill, NC 27516\
 United States
-
-We are always interested in hearing from prospective graduate students,
-postdocs, and undergraduates. Please get in touch.
