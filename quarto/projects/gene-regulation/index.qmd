@@ -4,20 +4,36 @@ description: "How chromatin remodeling complexes find their genomic targets and 
 image: featured.jpg
 ---
 
-Chromatin remodelers are large, multi-subunit complexes that can be assembled in
-diverse configurations. We use genome-wide approaches to understand how these
-complexes locate their genomic targets, what they do once they arrive, and how
-their assembly is regulated. Our current focus is on the roles of
-post-translational modifications of non-histone proteins and RNA interactions as
-key mediators of complex assembly and function.
+Textbook models give the SWI/SNF chromatin remodeling complex one main job:
+sliding and evicting nucleosomes to open chromatin so other factors can bind,
+with changes in gene expression following changes in accessibility. Our work
+keeps finding exceptions. When we perturb SWI/SNF, transcription often changes
+even though accessibility does not. This points to a second, scaffolding role,
+in which the complex recruits other regulatory proteins independently of its
+remodeling activity. We want to know what controls these
+accessibility-independent functions, and how the partners SWI/SNF selects
+translate into specific patterns of gene expression.
 
-<!-- PHASE 2: expand the narrative above (problem → approach → why it matters)
-     using /focus results and any grant text, then /deslop for voice. -->
+Two regulatory layers appear to tune which partners the complex engages. The
+first is post-translational modification of SWI/SNF subunits. Arginine
+methylation of the core subunit BAF155, deposited by CARM1, does not change
+which version of the complex assembles, but it reshapes the complex's
+interactome, especially its contacts with the RNA processing machinery, and
+alters nascent transcription without any change in chromatin accessibility. The
+second layer is RNA. SWI/SNF and related remodelers bind RNA and act at multiple
+steps of the transcription cycle, including polymerase pausing, splicing, and
+3′-end processing, and RNA can in turn tune the complex's interactions on a
+transcript-specific timescale.
+
+These lines of work frame our mission: to define how SWI/SNF and related
+remodelers choose their regulatory partners, and how that choice shapes gene
+regulation beyond chromatin accessibility. We combine nascent transcription,
+chromatin profiling, and interaction proteomics to connect specific
+modifications and RNA contacts to the transcriptional programs they control.
 
 ## Key Publications
 
-<!-- PHASE 2: replace with 3–6 curated papers for this arm, e.g.
-- Author A, Author B. *Title*. Journal. Year. [link](https://doi.org/...)
--->
-
-_Selected publications for this project will appear here._
+- Sokolowski M, Scoville D, Kuhlers PC, Raab J. Arginine methylation of BAF155 regulates interactions with RNA processing machinery. *bioRxiv* (2026). [10.64898/2026.05.18.726059](https://doi.org/10.64898/2026.05.18.726059)
+- Raab JR, Smith KN, Spear CC, Manner CJ, Calabrese JM, Magnuson T. SWI/SNF remains localized to chromatin in the presence of SCHLAP1. *Nature Genetics* (2019). [10.1038/s41588-018-0272-z](https://doi.org/10.1038/s41588-018-0272-z)
+- Zhao S, et al. TNRC18 engages H3K9me3 to mediate silencing of endogenous retrotransposons. *Nature* (2023). [10.1038/s41586-023-06688-z](https://doi.org/10.1038/s41586-023-06688-z)
+- Raab JR, Resnick S, Magnuson T. Genome-wide transcriptional regulation mediated by biochemically distinct SWI/SNF complexes. *PLoS Genetics* (2015). [10.1371/journal.pgen.1005748](https://doi.org/10.1371/journal.pgen.1005748)
