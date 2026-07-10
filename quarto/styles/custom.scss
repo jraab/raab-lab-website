@@ -90,9 +90,12 @@ h2 { margin-top: 2.6rem; margin-bottom: 1.2rem; }
   pointer-events: none;
 }
 .quarto-title-banner > * { position: relative; z-index: 1; }
-.quarto-title-banner .title { font-size: 3rem; }
-.quarto-title-banner .subtitle {
-  color: rgba(255, 255, 255, .9);
+// Scope under #title-block-header so these beat the ID-specificity rules above
+// (esp. `#title-block-header .subtitle { color: #486581 }`, which otherwise
+// paints the banner subtitle dark and invisible against the scrim).
+#title-block-header .quarto-title-banner .title { font-size: 3rem; }
+#title-block-header .quarto-title-banner .subtitle {
+  color: rgba(255, 255, 255, .92);
   font-size: 1.35rem;
 }
 
