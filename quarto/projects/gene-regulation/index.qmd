@@ -4,32 +4,30 @@ description: "How chromatin remodeling complexes find their genomic targets and 
 image: featured.jpg
 ---
 
-Textbook models give the SWI/SNF chromatin remodeling complex one main job:
-sliding and evicting nucleosomes to open chromatin so other factors can bind,
-with changes in gene expression following changes in accessibility. Our work
-keeps finding exceptions. When we perturb SWI/SNF, transcription often changes
-even though accessibility does not. This points to a second, scaffolding role,
-in which the complex recruits other regulatory proteins independently of its
-remodeling activity. We want to know what controls these
-accessibility-independent functions, and how the partners SWI/SNF selects
-translate into specific patterns of gene expression.
+The SWI/SNF chromatin remodeling complex is usually described as an enzyme that
+slides and evicts nucleosomes to open chromatin for other factors, so that
+changes in gene expression follow changes in accessibility. We find that
+perturbing SWI/SNF often changes transcription while accessibility stays the
+same. The complex therefore also acts as a scaffold, recruiting regulatory
+proteins independently of its remodeling activity. We study what controls that
+scaffolding and how the partners SWI/SNF recruits produce specific changes in
+gene expression.
 
-Two regulatory layers appear to tune which partners the complex engages. The
-first is post-translational modification of SWI/SNF subunits. Arginine
-methylation of the core subunit BAF155, deposited by CARM1, does not change
-which version of the complex assembles, but it reshapes the complex's
-interactome, especially its contacts with the RNA processing machinery, and
-alters nascent transcription without any change in chromatin accessibility. The
-second layer is RNA. SWI/SNF and related remodelers bind RNA and act at multiple
-steps of the transcription cycle, including polymerase pausing, splicing, and
-3′-end processing, and RNA can in turn tune the complex's interactions on a
-transcript-specific timescale.
+We have identified two inputs that regulate which partners the complex engages.
+One is post-translational modification of SWI/SNF subunits. CARM1 methylates an
+arginine on the core subunit BAF155. This methylation does not change which
+version of the complex assembles, but it changes the proteins the complex
+contacts, particularly the RNA processing machinery, and it alters nascent
+transcription without any change in chromatin accessibility. The other input is
+RNA. SWI/SNF and related remodelers bind RNA and act at several steps of the
+transcription cycle, including polymerase pausing, splicing, and 3′ end
+processing, and RNA can tune the complex's interactions on a
+transcript-by-transcript basis.
 
-These lines of work frame our mission: to define how SWI/SNF and related
-remodelers choose their regulatory partners, and how that choice shapes gene
-regulation beyond chromatin accessibility. We combine nascent transcription,
-chromatin profiling, and interaction proteomics to connect specific
-modifications and RNA contacts to the transcriptional programs they control.
+Our goal is to define how SWI/SNF and related remodelers select their regulatory
+partners and how that selection shapes gene regulation beyond accessibility. We
+use nascent transcription, chromatin profiling, and interaction proteomics to
+link specific modifications and RNA contacts to the genes they control.
 
 ## Key Publications
 

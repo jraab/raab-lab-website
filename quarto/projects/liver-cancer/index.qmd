@@ -6,32 +6,31 @@ image: featured.jpg
 
 Liver cancer is the third leading cause of cancer death worldwide, and
 hepatocellular carcinoma (HCC) accounts for most cases. Its incidence continues
-to rise, driven by viral hepatitis, metabolic-dysfunction–associated
+to rise, driven by viral hepatitis, metabolic dysfunction-associated
 steatohepatitis, and alcohol-related liver disease. Immune checkpoint inhibitors
 are now standard first-line therapy for advanced disease, but fewer than a third
-of patients respond and durable benefit is uncommon. Most work on why has
-focused on the immune system itself. We focus on a complementary question: how
-the chromatin state of the tumor cell determines whether the immune system can
-see and kill it.
+of patients respond and durable benefit is uncommon. Work on why has
+concentrated on the immune compartment. We study how the chromatin state of the
+tumor cell controls whether the immune system recognizes and kills it.
 
 Chromatin regulators are among the most frequently mutated genes in HCC. The BAF
-form of the SWI/SNF remodeling complex alone is disrupted in roughly one in five
-liver tumors, defining a large genetic subset with no targeted therapy. In most
-other cancers, loss of SWI/SNF makes tumors more visible to the immune system
-and more responsive to checkpoint blockade. Liver cancer breaks this pattern. In
-our analyses, BAF-mutant tumors have worse survival and do not show the expected
-sensitization, which suggests that the liver's tolerant immune environment
-reshapes what chromatin disruption means for anti-tumor immunity.
+form of the SWI/SNF remodeling complex alone is disrupted in about one in five
+liver tumors, a large genetic subset with no targeted therapy. In most other
+cancers, loss of SWI/SNF makes tumors more visible to the immune system and more
+responsive to checkpoint blockade. Liver cancer does not follow this pattern. In
+our analyses, BAF-mutant tumors have worse survival and do not gain the expected
+sensitivity to checkpoint blockade. We think the liver's tolerant immune
+environment accounts for the difference, and that mechanisms defined in other
+tissues cannot be assumed to hold here.
 
-We are defining the chromatin dependencies that BAF-mutant liver tumors rely on
-to establish and maintain these altered states, and testing whether disrupting
-them can restore anti-tumor immunity. To study this at the real tumor-immune
-interface, we pair pooled, epigenome-focused CRISPR screens in immunocompetent
-orthotopic liver tumors with T-cell–killing assays using BAF-mutant liver cancer
-lines. The aim is to find chromatin regulators whose loss reprograms
-immune-response pathways, and to nominate combinations that could make
-immunotherapy effective for a molecular subtype of liver cancer with few current
-options.
+We are identifying the chromatin regulators that BAF-mutant liver tumors depend
+on to maintain these altered states, and testing whether removing them restores
+anti-tumor immunity. To keep the tumor and immune system together, we pair
+pooled, epigenome-focused CRISPR screens in immunocompetent orthotopic liver
+tumors with T-cell killing assays in BAF-mutant liver cancer lines. We want to
+find chromatin regulators whose loss reprograms immune-response pathways and to
+nominate combinations that could make immunotherapy work in a subtype of liver
+cancer that has few options.
 
 ## Key Publications
 
