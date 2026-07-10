@@ -1,0 +1,56 @@
+---
+title: "People"
+listing:
+  - id: pi
+    contents: people/pi.yml
+    template: _templates/people-card.ejs
+  - id: postdocs
+    contents: people/postdocs.yml
+    template: _templates/people-card.ejs
+  - id: grad-students
+    contents: people/grad-students.yml
+    template: _templates/people-card.ejs
+  - id: staff
+    contents: people/staff.yml
+    template: _templates/people-card.ejs
+  - id: undergrads
+    contents: people/undergrads.yml
+    template: _templates/people-card.ejs
+  - id: alumni
+    contents: people/alumni.yml
+    template: _templates/people-card.ejs
+---
+
+::: {style="display:none"}
+{{< fa envelope >}}{{< ai google-scholar >}}
+:::
+
+## Principal Investigator
+
+:::{#pi}
+:::
+
+## Postdoctoral Researchers
+
+:::{#postdocs}
+:::
+
+## Graduate Students
+
+:::{#grad-students}
+:::
+
+## Staff
+
+:::{#staff}
+:::
+
+## Undergraduate Researchers
+
+:::{#undergrads}
+:::
+
+## Alumni
+
+:::{#alumni}
+:::

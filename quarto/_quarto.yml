@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME      # custom domain for GitHub Pages; edit the file to your domain
+
+website:
+  title: "Raab Lab"
+  description: "Chromatin-mediated gene regulation in cancer — Department of Genetics, UNC Chapel Hill"
+  site-url: "https://raab-lab.org"
+  navbar:
+    left:
+      - text: "Research"
+        href: index.qmd#research
+      - text: "People"
+        href: people.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/raab-lab
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Raab Lab · Department of Genetics, UNC Chapel Hill"
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles/custom.scss
+    toc: false
+    page-layout: full

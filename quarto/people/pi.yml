@@ -1,0 +1,9 @@
+# Per-person fields. Social links are optional named fields — add any of:
+# email, scholar, orcid, github, twitter, bluesky, website. Omit what you lack.
+- title: Jesse Raab
+  subtitle: "Principal Investigator · Assistant Professor, Department of Genetics"
+  image: /images/people/jesse-raab.jpg
+  email: jraab@med.unc.edu
+  scholar: https://scholar.google.com/citations?user=OYxvwzYAAAAJ&hl=en
+  github: https://github.com/raab-lab
+  bluesky: https://bsky.app/profile/jraab.bsky.social

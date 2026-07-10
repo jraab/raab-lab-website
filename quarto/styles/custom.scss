@@ -1,0 +1,74 @@
+/*-- scss:defaults --*/
+// Raab Lab theme — flatly base, Inter throughout, UNC navy + teal accent, soft cards.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap";
+$font-family-sans-serif: "Inter", system-ui, -apple-system, sans-serif;
+$headings-font-family:   "Inter", system-ui, sans-serif;
+$primary:        #13294B;   // UNC navy
+$link-color:     #2C7A7B;   // teal accent
+$body-color:     #243b53;
+$body-bg:        #f7f9fb;
+$navbar-bg:      #13294B;
+$navbar-fg:      #ffffff;
+$headings-font-weight: 700;
+$border-radius:  .6rem;
+
+/*-- scss:rules --*/
+.navbar-brand { font-weight: 700; letter-spacing: .01em; }
+
+h1, h2, h3 { letter-spacing: -0.02em; }
+h2 { margin-top: 2.6rem; margin-bottom: 1.2rem; }
+
+// Title block: stronger title, muted subtitle
+#title-block-header .title { font-size: 2.7rem; font-weight: 700; }
+#title-block-header .subtitle {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #486581;
+  margin-top: .25rem;
+}
+
+// People / project cards
+.card {
+  border: none;
+  border-radius: .6rem;
+  box-shadow: 0 1px 3px rgba(36,59,83,.12);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(36,59,83,.16); }
+.card-img-top {
+  border-top-left-radius: .6rem;
+  border-top-right-radius: .6rem;
+  object-fit: cover;
+}
+.card-title { font-weight: 600; }
+
+// Publications: readable, accented list
+#refs .csl-entry {
+  margin-bottom: 1rem;
+  line-height: 1.55;
+  padding-left: 1rem;
+  border-left: 3px solid #d9e2ec;
+}
+
+// People grid (custom listing template)
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 1.4rem;
+  margin: .5rem 0 1.5rem;
+}
+.people-card .people-card-img { height: 200px; width: 100%; object-fit: cover; }
+.people-card .card-body { padding: .85rem 1rem 1rem; }
+.people-name { font-weight: 600; font-size: 1.02rem; }
+.people-role { color: #486581; font-size: .9rem; margin-top: .15rem; line-height: 1.35; }
+.people-social {
+  margin-top: .6rem;
+  display: flex;
+  gap: .7rem;
+  font-size: 1.05rem;
+}
+.people-social a { color: #627d98; text-decoration: none; }
+.people-social a:hover { color: $link-color; }
+
+// Footer
+.nav-footer { color: #627d98; font-size: .9rem; }

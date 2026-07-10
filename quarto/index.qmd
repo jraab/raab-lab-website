@@ -1,0 +1,21 @@
+---
+title: "The Raab Lab"
+subtitle: "Chromatin-mediated gene regulation in cancer"
+listing:
+  - id: projects
+    contents: "projects/*/index.qmd"
+    type: grid
+    grid-columns: 2
+    image-height: 220px
+    fields: [image, title, description]
+    sort: false
+---
+
+We are in the Department of Genetics at UNC Chapel Hill. We study how
+chromatin-mediated gene regulation is controlled and how disruption of chromatin
+contributes to cancer and other diseases.
+
+## Research {#research}
+
+:::{#projects}
+:::

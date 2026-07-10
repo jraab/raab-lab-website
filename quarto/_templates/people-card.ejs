@@ -1,0 +1,24 @@
+```{=html}
+<div class="people-grid">
+<% for (const item of items) { %>
+  <div class="card people-card h-100">
+    <% if (item.image) { %>
+    <p class="card-img-top"><img src="<%= item.image %>" class="card-img people-card-img" alt="<%= item.title %>"></p>
+    <% } %>
+    <div class="card-body">
+      <div class="card-title people-name"><%= item.title %></div>
+      <% if (item.subtitle) { %><div class="people-role"><%= item.subtitle %></div><% } %>
+      <div class="people-social">
+        <% if (item.email)   { %><a href="mailto:<%= item.email %>" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a><% } %>
+        <% if (item.scholar) { %><a href="<%= item.scholar %>" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a><% } %>
+        <% if (item.orcid)   { %><a href="<%= item.orcid %>" title="ORCID" aria-label="ORCID" target="_blank" rel="noopener"><i class="fa-brands fa-orcid"></i></a><% } %>
+        <% if (item.github)  { %><a href="<%= item.github %>" title="GitHub" aria-label="GitHub" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i></a><% } %>
+        <% if (item.twitter) { %><a href="<%= item.twitter %>" title="X" aria-label="X" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a><% } %>
+        <% if (item.bluesky) { %><a href="<%= item.bluesky %>" title="Bluesky" aria-label="Bluesky" target="_blank" rel="noopener"><i class="fa-brands fa-bluesky"></i></a><% } %>
+        <% if (item.website) { %><a href="<%= item.website %>" title="Website" aria-label="Website" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i></a><% } %>
+      </div>
+    </div>
+  </div>
+<% } %>
+</div>
+```
