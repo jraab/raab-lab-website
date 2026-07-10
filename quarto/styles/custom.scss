@@ -72,3 +72,35 @@ h2 { margin-top: 2.6rem; margin-bottom: 1.2rem; }
 
 // Footer
 .nav-footer { color: #627d98; font-size: .9rem; }
+
+// Hero banner: title-block-banner sets the histology image; add a navy scrim
+// over it (via ::before) so the white title reads on a light, busy image.
+.quarto-title-banner {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+.quarto-title-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(rgba(19, 41, 75, .62), rgba(19, 41, 75, .72));
+  pointer-events: none;
+}
+.quarto-title-banner > * { position: relative; z-index: 1; }
+.quarto-title-banner .title { font-size: 3rem; }
+.quarto-title-banner .subtitle {
+  color: rgba(255, 255, 255, .9);
+  font-size: 1.35rem;
+}
+
+// Recent News strip: compact cards, date accent
+#news-strip .card { min-height: 100%; }
+#news-strip .listing-date {
+  color: $link-color;
+  font-weight: 600;
+  font-size: .85rem;
+}
+#news-strip .card-title { font-size: 1.05rem; margin-top: .2rem; }
