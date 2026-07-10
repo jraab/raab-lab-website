@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/gene-regulation/index.html",
+      "/projects/liver-cancer/index.html"
+    ]
+  }
+]
