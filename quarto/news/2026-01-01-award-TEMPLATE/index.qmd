@@ -1,0 +1,16 @@
+---
+title: "TEMPLATE — replace with the award announcement"
+date: "2026-01-01"
+description: "One-line summary shown on the home strip and news page."
+draft: true
+---
+
+<!--
+TEMPLATE for the recent award. To publish:
+1. Rename this folder to news/YYYY-MM-DD-<slug>/ using the real date.
+2. Set title, date, and description above.
+3. Remove `draft: true`.
+4. Write the announcement below.
+-->
+
+Describe the award here.

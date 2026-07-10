@@ -16,6 +16,8 @@ website:
         href: people.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "News"
+        href: news.qmd
       - text: "Contact"
         href: contact.qmd
     right:
