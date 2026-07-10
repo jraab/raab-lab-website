@@ -10,3 +10,14 @@ disruption of normal chromatin regulation drives the development of these
 tumors. We are also exploring new therapeutic strategies targeting the
 epigenome, using high-throughput CRISPR screens to uncover novel therapeutic
 avenues.
+
+<!-- PHASE 2: expand the narrative above (problem → approach → why it matters)
+     using /focus results and any grant text, then /deslop for voice. -->
+
+## Key Publications
+
+<!-- PHASE 2: replace with 3–6 curated papers for this arm, e.g.
+- Author A, Author B. *Title*. Journal. Year. [link](https://doi.org/...)
+-->
+
+_Selected publications for this project will appear here._
