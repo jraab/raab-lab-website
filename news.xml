@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Raab Lab</title>
+<link>https://raab-lab.org/news.html</link>
+<atom:link href="https://raab-lab.org/news.xml" rel="self" type="application/rss+xml"/>
+<description>Chromatin-mediated gene regulation in cancer — Department of Genetics, UNC Chapel Hill</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Wed, 01 Jul 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Claire Olson joins the lab</title>
+  <link>https://raab-lab.org/news/2026-07-01-claire-olson/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We’re glad to welcome Claire Olson, who joins the lab as a graduate student.</p>
+
+
+
+ ]]></description>
+  <guid>https://raab-lab.org/news/2026-07-01-claire-olson/</guid>
+  <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sophia Shultz joins the lab</title>
+  <link>https://raab-lab.org/news/2026-06-15-sophia-shultz/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>We’re glad to welcome Sophia Shultz, who joins the lab as an undergraduate researcher.</p>
+
+
+
+ ]]></description>
+  <guid>https://raab-lab.org/news/2026-06-15-sophia-shultz/</guid>
+  <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Margarita Dzama-Karels wins Pagano Award</title>
+  <link>https://raab-lab.org/news/2026-05-21-dzama-karels-pagano-award/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Congratulations to Postdoctoral Scholar Margarita Dzama-Karels, who was awarded a <a href="https://www.med.unc.edu/genetics/dzama-karels-recognized-with-joseph-s-pagano-award/" target="_blank">2026 Joseph S. Pagano Award</a> for her 2025 paper, <a href="https://doi.org/10.1016/j.celrep.2025.116619" target="_blank">Menin-MLL1 complex cooperates with NF-Y to promote hepatocellular carcinoma survival</a>. This annual award recognizes notable cancer-related papers authored by UNC Lineberger postdoctoral fellows.</p>
+
+
+
+ ]]></description>
+  <guid>https://raab-lab.org/news/2026-05-21-dzama-karels-pagano-award/</guid>
+  <pubDate>Tue, 26 May 2026 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
