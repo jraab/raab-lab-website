@@ -15,17 +15,10 @@ tumor cell controls whether the immune system recognizes and kills it.
 
 Chromatin regulators are among the most frequently mutated genes in HCC. The BAF
 form of the SWI/SNF remodeling complex alone is disrupted in about one in five
-liver tumors, a large genetic subset with no targeted therapy. In most other
-cancers, loss of SWI/SNF makes tumors more visible to the immune system and more
-responsive to checkpoint blockade. Liver cancer does not follow this pattern. In
-our analyses, BAF-mutant tumors have worse survival and do not gain the expected
-sensitivity to checkpoint blockade. We think the liver's tolerant immune
-environment accounts for the difference, and that mechanisms defined in other
-tissues cannot be assumed to hold here.
+liver tumors, a large genetic subset with no targeted therapy. We are studying the idea that altered BAF function in these tumor cells creates dependent chromatin states that can be targeted. 
 
 We are identifying the chromatin regulators that BAF-mutant liver tumors depend
-on to maintain these altered states, and testing whether removing them restores
-anti-tumor immunity. To keep the tumor and immune system together, we pair
+on to maintain these altered states, and testing whether removing them improve therapy responses. To keep the tumor and immune system together, we pair
 pooled, epigenome-focused CRISPR screens in immunocompetent orthotopic liver
 tumors with T-cell killing assays in BAF-mutant liver cancer lines. We want to
 find chromatin regulators whose loss reprograms immune-response pathways and to

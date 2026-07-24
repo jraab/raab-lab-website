@@ -4,29 +4,28 @@ description: "How chromatin remodeling complexes find their genomic targets and 
 image: featured.jpg
 ---
 
-The SWI/SNF chromatin remodeling complex is usually described as an enzyme that
+The SWI/SNF chromatin remodeling complex is an enzyme that
 slides and evicts nucleosomes to open chromatin for other factors, so that
-changes in gene expression follow changes in accessibility. We find that
-perturbing SWI/SNF often changes transcription while accessibility stays the
+changes in gene expression follow changes in accessibility. We're interested in finding how this complex  transcription while accessibility stays the
 same. The complex therefore also acts as a scaffold, recruiting regulatory
 proteins independently of its remodeling activity. We study what controls that
 scaffolding and how the partners SWI/SNF recruits produce specific changes in
 gene expression.
 
-We have identified two inputs that regulate which partners the complex engages.
+Our current projects focus on two ways SWI/SNF  partners are regulated.
 One is post-translational modification of SWI/SNF subunits. CARM1 methylates an
 arginine on the core subunit BAF155. This methylation does not change which
 version of the complex assembles, but it changes the proteins the complex
-contacts, particularly the RNA processing machinery, and it alters nascent
+contacts, particularly the RNA processing machinery, and can alter
 transcription without any change in chromatin accessibility. The other input is
-RNA. SWI/SNF and related remodelers bind RNA and act at several steps of the
+RNA itself. SWI/SNF and related remodelers bind RNA and act at several steps of the
 transcription cycle, including polymerase pausing, splicing, and 3′ end
 processing, and RNA can tune the complex's interactions on a
 transcript-by-transcript basis.
 
 Our goal is to define how SWI/SNF and related remodelers select their regulatory
 partners and how that selection shapes gene regulation beyond accessibility. We
-use nascent transcription, chromatin profiling, and interaction proteomics to
+use chromatin profiling, gene expression analysis, and interaction proteomics to
 link specific modifications and RNA contacts to the genes they control.
 
 ## Key Publications

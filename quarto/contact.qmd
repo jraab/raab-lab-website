@@ -2,10 +2,9 @@
 title: "Contact"
 ---
 
-<!-- LAB PHOTO: when Jesse provides the photo, drop it in quarto/images/lab-photo.jpg
-     and uncomment the line below.
+
 ![The Raab Lab](images/lab-photo.jpg){.img-fluid style="border-radius:.6rem;margin-bottom:1.5rem;"}
--->
+
 
 We are located in the Department of Genetics at the University of North Carolina
 at Chapel Hill.

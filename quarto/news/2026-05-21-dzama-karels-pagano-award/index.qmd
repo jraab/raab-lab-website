@@ -1,0 +1,8 @@
+---
+title: "Margarita Dzama-Karels wins Pagano Award"
+date: "2026-05-26"
+description: "Pagano Award recognizes her 2025 *Cell Reports* paper on menin-MLL1 in liver cancer."
+draft: false
+---
+
+Congratulations to Postdoctoral Scholar Margarita Dzama-Karels, who was awarded a [2026 Joseph S. Pagano Award](https://www.med.unc.edu/genetics/dzama-karels-recognized-with-joseph-s-pagano-award/){target="_blank"} for her 2025 paper, [Menin-MLL1 complex cooperates with NF-Y to promote hepatocellular carcinoma survival](https://doi.org/10.1016/j.celrep.2025.116619){target="_blank"}. This annual award recognizes notable cancer-related papers authored by UNC Lineberger postdoctoral fellows.
