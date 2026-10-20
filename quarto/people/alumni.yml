@@ -9,11 +9,13 @@
   image: /images/people/carl-manner.jpg
 - title: Deena Scoville
   subtitle: "Former Research Technician · now PhD student, UNC"
-  image: /images/people/deena-scoville.jpg
+  image: /images/people/deena-scoville.jpg 
 - title: Max Bucklan 
-  subtitle: "Former Research Technician · now PhD student, Duke University"
-  image: /images/people/deena-scoville.jpg
+  subtitle: "Former Research Technician · now PhD student, Duke University" 
   image: /images/people/max-bucklan.jpg
 - title: Julia Boltz
   subtitle: "Former Undergraduate Researcher"
   image: /images/people/julia-boltz.jpg
+- title: Jackie Brinkman
+   subtitle: "Former Graduate Student now Postdoc UCSF"
+   image: /images/people/jackie-brinkman.jpg
