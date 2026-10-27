@@ -9,8 +9,32 @@
 <link>https://raab-lab.org/news.html</link>
 <atom:link href="https://raab-lab.org/news.xml" rel="self" type="application/rss+xml"/>
 <description>Chromatin-mediated gene regulation in cancer — Department of Genetics, UNC Chapel Hill</description>
-<generator>quarto-1.10.19</generator>
-<lastBuildDate>Wed, 01 Jul 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sat, 22 Aug 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Jaida Bristol joins lab</title>
+  <link>https://raab-lab.org/news/2026-08-22-jaida-bristol/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--
+TEMPLATE for the recent award. To publish:
+1. Rename this folder to news/YYYY-MM-DD-<slug>/ using the real date.
+2. Set title, date, and description above.
+3. Remove `draft: true`.
+4. Write the announcement below.
+-->
+<p>Welcome to Jaida Bristol who joins the lab as a part of the Cell Biology and Physiology Master program. She’ll spend this year working on chromatin and RNA interactions.<img src="https://raab-lab.org/news/2026-08-22-jaida-bristol/images/jaida-bristol.jpg" class="img-fluid quarto-figure quarto-figure-left" style="width:40.0%"></p>
+
+
+
+ ]]></description>
+  <guid>https://raab-lab.org/news/2026-08-22-jaida-bristol/</guid>
+  <pubDate>Sat, 22 Aug 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://raab-lab.org/news/2026-08-22-jaida-bristol/images/jaida-bristol.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Claire Olson joins the lab</title>
   <link>https://raab-lab.org/news/2026-07-01-claire-olson/</link>
@@ -28,14 +52,14 @@
   <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Sophia Schultz joins the lab</title>
+  <title>Sophia Shultz joins the lab</title>
   <link>https://raab-lab.org/news/2026-06-15-sophia-shultz/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>We’re glad to welcome Sophia Schultz, who joins the lab as an undergraduate researcher.</p>
+<p>We’re glad to welcome Sophia Shultz, who joins the lab as an undergraduate researcher.</p>
 
 
 
