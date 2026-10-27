@@ -26,7 +26,8 @@ TEMPLATE for the recent award. To publish:
 3. Remove `draft: true`.
 4. Write the announcement below.
 -->
-<p>Welcome to Jaida Bristol who joins the lab as a part of the Cell Biology and Physiology Master program. She’ll spend this year working on chromatin and RNA interactions.<img src="https://raab-lab.org/news/2026-08-22-jaida-bristol/images/jaida-bristol.jpg" class="img-fluid quarto-figure quarto-figure-left" style="width:40.0%"></p>
+<p><img src="https://raab-lab.org/news/2026-08-22-jaida-bristol/images/jaida-bristol.jpg" class="img-fluid" style="float:right; margin: 0 0 1rem 1.5rem; border-radius: 6px;" width="220"></p>
+<p>Welcome to Jaida Bristol, who joins the lab as part of the Cell Biology and Physiology Master’s program. She’ll spend this year working on chromatin and RNA interactions.</p>
 
 
 
