@@ -52,8 +52,8 @@ TEMPLATE for the recent award. To publish:
   <pubDate>Wed, 01 Jul 2026 04:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Sophia Shultz joins the lab</title>
-  <link>https://raab-lab.org/news/2026-06-15-sophia-shultz/</link>
+  <title>Sophia Schultz joins the lab</title>
+  <link>https://raab-lab.org/news/2026-06-15-sophia-schultz/</link>
   <description><![CDATA[ 
 
 
@@ -64,7 +64,7 @@ TEMPLATE for the recent award. To publish:
 
 
  ]]></description>
-  <guid>https://raab-lab.org/news/2026-06-15-sophia-shultz/</guid>
+  <guid>https://raab-lab.org/news/2026-06-15-sophia-schultz/</guid>
   <pubDate>Mon, 15 Jun 2026 04:00:00 GMT</pubDate>
 </item>
 <item>
@@ -82,6 +82,29 @@ TEMPLATE for the recent award. To publish:
  ]]></description>
   <guid>https://raab-lab.org/news/2026-05-21-dzama-karels-pagano-award/</guid>
   <pubDate>Tue, 26 May 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Jesse joins G3 as associate editgor</title>
+  <link>https://raab-lab.org/news/2026-10-12-jesse-g3/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--
+TEMPLATE for the recent award. To publish:
+1. Rename this folder to news/YYYY-MM-DD-<slug>/ using the real date.
+2. Set title, date, and description above.
+3. Remove `draft: true`.
+4. Write the announcement below.
+-->
+<p>Jesse joins the G3 editorial board as an associate editor. https://genestogenomes.org/genetics-and-g3-welcome-new-editors-2/</p>
+
+
+
+ ]]></description>
+  <guid>https://raab-lab.org/news/2026-10-12-jesse-g3/</guid>
+  <pubDate>Thu, 01 Jan 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
